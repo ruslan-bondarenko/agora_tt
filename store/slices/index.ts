@@ -1,3 +1,3 @@
-export {default as productsSlice} from './productsSlice';
-export {setProductsData, setLoadingState} from './productsSlice';
-export {fetchProducts} from './productsSlice';
+export {default as photosSlice} from './photosSlice';
+export {setLoadingState} from './photosSlice';
+export {getPhotosByQuery} from './photosSlice';
